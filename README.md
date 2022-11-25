@@ -7,6 +7,14 @@ Pagi ini ketika bangun tidur, seperti biasa, admin scrolling grup [**Informatika
 
 Dengan segala hormat, admin mengucapkan terima kasih kepada **Pak Aasher Vaalheit** sudah membagikan postingan dan mohon izin kepada **Pak Suparman Ibnu Faza Izza** untuk menjadikan ini sebuah tulisan. Semoga sedikit dapat membantu teman-teman pembaca untuk lebih waspada lagi terhadap segala bentuk penipuan.
 
+# Outline
+1. Kronologi
+2. Screenshot
+3. Analisis
+4. Paper Ilmiah
+5. Apa yang bisa dilakukan selanjutnya?
+6. Pengingat
+
 # KRONOLOGI 
 
 > Kronologi ada WA Paketan JN* karena sering olshop dan dapat link untuk cek barang sampai mana pesanannya, kayak tracking. Maka diklik lah. Hanya klik tanpa masukkan data pribadi atau username atau pasword atau email. 
@@ -16,10 +24,25 @@ Lalu ku blokir Telpon BRI. Kok mudah banget seolah-olah ya, pdhal semua data rah
 # SCREENSHOT
 
 ## 1. Postingan Facebook
+Berikut adalah postingan dari korban.
 ![image](/1ss-postingan.jpg)
+![image](ss-kronologi.jpg)
+
+## 2. Screenshot Saldo Terkuras (SMS)
+![image](/ss-dana-terkuras.jpg)
+
+## 3. Screenshot Chat dengan Pelaku 
+![image](/ss-chat-JNT.jpg)
+
+## 4. Validasi Bahwa Melakukan Instalasi APK
+![image](/4ss-install-apk-cen.jpg)
+
+## 5. Screenshot Chat dengan Pelaku Meminta Instal APK
+![image](/ss-chat-JNT-apk.jpg)
+Pada screenshot ini, terlihat bahwa pelaku mengirim dan menyuruh untuk menginstal **J&T_Express.apk**. Di tahap inilah kita perlu CURIGA. Mengapa pelaku mengirimkan APK? 
 
 # ANALISIS
-Berdasarkan kronologi yang diberikan. 
+Berdasarkan kronologi yang diberikan. Sepertinya korban memang sudah cukup aware dengan tidak ada membuka LINK yang meminta untuk memasukkan data pribadi. Namun, di sini korban melakukan isntalasi aplikasi mobile (.APK) yang tidak sah. Admin menduga bahwa apliaksi ini merupakan _malicious app_. Di mana dengan cukup menginstal aplikasi jahat ini, pelaku sudah bisa mengakses sepenuhnya handphone korban.
 
 Research
 - Analysis of Malicious Behavior of Android Apps (Pooja Singh, Pankaj Tiwari, Dr. Santosh Singh)
