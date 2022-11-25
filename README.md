@@ -54,6 +54,11 @@ BERHATI-HATI!
 # PENELITIAN
 ![image](/SS-RESEARCHGATE.jpg)
 
+# Apa yang bisa dilakukan selanjutnya?
+
+- Lapor polisi
+- Lapor ke bank untuk pembekuan dana
+
 # PENGINGAT
 
 - Jangan klik sembarangan
