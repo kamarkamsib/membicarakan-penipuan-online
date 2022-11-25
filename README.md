@@ -13,7 +13,10 @@ Dengan segala hormat, admin mengucapkan terima kasih kepada **Pak Aasher Vaalhei
 Habis itu ada SMS OTP Bank BRI dan itupun tidak dikasih tahu ke siapapun, mulai panik waduh. Lah selang beberapa menit ada notifikasi SMS uang kluar berkali-kali. 
 Lalu ku blokir Telpon BRI. Kok mudah banget seolah-olah ya, pdhal semua data rahasia di kami. 
 
+# SCREENSHOT
 
+## 1. Postingan Facebook
+![image](/1ss-postingan.jpg)
 
 # ANALISIS
 Berdasarkan kronologi yang diberikan. 
